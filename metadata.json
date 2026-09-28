@@ -1,0 +1,6 @@
+{
+  "name": "مساعد مكتبة السالمي الذكي - أدرار",
+  "description": "المساعد الذكي لمكتبة ووراقة السالمي بأدرار لمعالجة قوائم الأدوات المدرسية بالصور، حساب الفواتير بالدينار الجزائري، والاستعلام عن الكتب والمراجع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
